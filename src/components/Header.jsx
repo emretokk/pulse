@@ -3,7 +3,7 @@ import React, { useState } from "react";
 function Header() {
   const [mouseOnSignUp, setMouseOnSignUp] = useState(false);
   return (
-    <header className="flex justify-between items-center h-36 px-48 bg-lime">
+    <header className="flex justify-between items-center h-36 px-48 bg-gradient-to-r from-light via-lime to-light">
       <a href="#">
         <img
           src="https://pulseapp.com/img/pulse-logo.svg"

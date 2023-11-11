@@ -10,6 +10,7 @@ export default {
         grayish: "#d6dae5",
         dark: "#080c16",
         light: "#fcfcfc",
+        blue: "#3ba0f2",
       },
     },
   },
